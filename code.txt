@@ -2,7 +2,11 @@
 
 int main(void)
 {
+
 	using namespace std1;
+
+	using namespace std;
+	
 	return 0;
 	}
 	
